@@ -1,0 +1,17 @@
+{
+  "name": "typedoc-plugin-rename",
+  "version": "1.0.0",
+  "description": "A plugin that adds the @rename JSDoc tag to TypeDoc",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zamiell/typedoc-plugin-rename.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zamiell/typedoc-plugin-rename/issues"
+  },
+  "homepage": "https://github.com/Zamiell/typedoc-plugin-rename#readme"
+}
