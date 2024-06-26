@@ -13,5 +13,12 @@
   "bugs": {
     "url": "https://github.com/Zamiell/typedoc-plugin-rename/issues"
   },
-  "homepage": "https://github.com/Zamiell/typedoc-plugin-rename#readme"
+  "homepage": "https://github.com/Zamiell/typedoc-plugin-rename#readme",
+  "peerDependencies": {
+    "typedoc": ">=0.26.2"
+  },
+  "devDependencies": {
+    "typedoc": "^0.26.2"
+  },
+  "packageManager": "yarn@4.3.1"
 }
