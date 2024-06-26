@@ -1,6 +1,6 @@
 {
   "name": "typedoc-plugin-rename",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A plugin that adds the @rename JSDoc tag to TypeDoc",
   "main": "index.js",
   "repository": {
