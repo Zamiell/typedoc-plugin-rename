@@ -33,4 +33,10 @@ With yarn:
 yarn add typedoc-plugin-rename --dev
 ```
 
+## Usage
+
 When executing TypeDoc (with e.g. `npx typedoc`), it will automatically load the plugin (unless you have the "plugin" field explicitly specified in your "typedoc.json" config file).
+
+## Credits
+
+This plugin was originally created by [Gerrit Birkeland](https://github.com/Gerrit0), the creator of TypeDoc.
