@@ -7,7 +7,11 @@
     "type": "git",
     "url": "git+https://github.com/Zamiell/typedoc-plugin-rename.git"
   },
-  "keywords": [],
+  "keywords": [
+    "typedoc",
+    "typedocplugin",
+    "typedoc-plugin"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
