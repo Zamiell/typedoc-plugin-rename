@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/Zamiell/typedoc-plugin-rename#readme",
   "peerDependencies": {
-    "typedoc": ">=0.26.2"
+    "typedoc": ">= 0.26.2"
   },
   "devDependencies": {
     "prettier": "^3.3.2",
